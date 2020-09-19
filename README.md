@@ -1,3 +1,3 @@
 # URL -Shortner
 Used HTML, Bootstrap, Javascript, MongoDB, Express.js
-![Screenshot](img.jpg)
+![Screenshot](C:\Users\chaud\Desktop\URL_SHORTNER\img.jpg)
